@@ -1,4 +1,4 @@
-a = 20
+a = 16
 b = 2
 c = a+b
 print("C is",c)
